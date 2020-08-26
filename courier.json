@@ -1,0 +1,14 @@
+{
+    "version": "0.2.10",
+    "architecture": {
+        "64bit": {
+            "url": "https://cdn.blutui.com/courier/v0.2.10/courier_0.2.10_windows_64-bit.zip",
+            "bin": [
+                "courier.exe"
+            ],
+            "hash": "6802b5216218aa745a9aa2d306b0886ece60f838017a244a35d1ba7ab690d12f"
+        }
+    },
+    "homepage": "https://blutui.com",
+    "description": "A command-line interface for interacting with Blutui projects."
+}
