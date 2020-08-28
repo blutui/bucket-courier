@@ -1,12 +1,12 @@
 {
-    "version": "0.2.10",
+    "version": "0.2.11",
     "architecture": {
         "64bit": {
-            "url": "https://cdn.blutui.com/courier/v0.2.10/courier_0.2.10_windows_64-bit.zip",
+            "url": "https://cdn.blutui.com/courier/v0.2.11/courier_0.2.11_windows_64-bit.zip",
             "bin": [
                 "courier.exe"
             ],
-            "hash": "6802b5216218aa745a9aa2d306b0886ece60f838017a244a35d1ba7ab690d12f"
+            "hash": "30051676e6dd538b048d69a7d9d4e7f84c2b10fbf6a12f09565903e6a09d6cc8"
         }
     },
     "homepage": "https://blutui.com",
