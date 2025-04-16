@@ -1,19 +1,19 @@
 {
-    "version": "1.1.1",
+    "version": "1.1.2",
     "architecture": {
         "64bit": {
-            "url": "https://cdn.blutui.com/courier/v1.1.1/courier_1.1.1_windows_x86_64.zip",
+            "url": "https://cdn.blutui.com/courier/v1.1.2/courier_1.1.2_windows_x86_64.zip",
             "bin": [
                 "courier.exe"
             ],
-            "hash": "2184c2060b7af4b057782e8597497d08291a9e4345a595b4079ad57fdaf93c67"
+            "hash": "f15b2146ee27556ea5892a3a4e18530cfe07dbf9308888fbde22b9142cbf2f7f"
         },
         "arm64": {
-            "url": "https://cdn.blutui.com/courier/v1.1.1/courier_1.1.1_windows_arm64.zip",
+            "url": "https://cdn.blutui.com/courier/v1.1.2/courier_1.1.2_windows_arm64.zip",
             "bin": [
                 "courier.exe"
             ],
-            "hash": "1027ebf95d2db04fe7a86ace3b4ef284983ad5fd44579ad6495dcc8eba926746"
+            "hash": "dc9d2f56c23549123ae4f5698bcbbd9630ebb045aef51e706192e9c4efa1e1a8"
         }
     },
     "homepage": "https://blutui.com",
